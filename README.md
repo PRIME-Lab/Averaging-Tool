@@ -4,5 +4,7 @@ PRIME (Purdue Rare Isotope Measurement) Lab conducts AMS (accelerator mass spect
 
 Sometimes the operator would like to quickly average the ratio and error for a series of samples.
 
-Averaging Tool.vi was written in Labview 2015 but in order to run on the DAQ computer, it has to be downgraded to Labview 2009 (Averaging Tool 2009/Averaging Tool.vi).
+Built to run on DAQuiri (LV 2016).
+
+An older version exists for use on Lois and was downgraded to Labview 2009 (Averaging Tool 2009/Averaging Tool.vi).
 
